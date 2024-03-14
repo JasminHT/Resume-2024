@@ -8,11 +8,27 @@ Full stack web developer with 14 years of experience working remotely.
 
 I have experience owning a project from initial estimates to final release. In collaboration with a variety of teams, I have built 20+ high-performance, secure, easy-to-use websites and applications while staying under budget and within deadlines.
 
-Well-versed in various programming languages and able to learn new ones as needed. I keep up to date with the constant growth of new tools and technologies.
-
+Well-versed in various programming languages and able to learn new ones as needed. 
 
 
 # Skills
+
+### List
+
+- Web stack :            HTML, CSS, Javascript
+- Web extensions :       Typescript, SASS, jQuery
+- Database management :  SQL, NoSQL
+- Scripting languages :  C++, Python, Ruby, Java
+- Front-end frameworks : React, Bootstrap 
+- Back-end scripting :   Node.js, PHP, ASP, npm
+- Content Management :   Wordpress, Drupal, Symfony, Shopify, H5P
+- Environments :         Windows, Linux, Apache
+- Web hosting :          Servers, DNS, cloud hosting, mail
+- Bonus :                Assembly, Matlab
+- Editors :              Sublime, VSCode
+
+- Cloud Hosting :        AWS services, Google Cloud, Azure
+- Containers :           LXD, Docker, Kubernetes
 
 ### Software Development
 
@@ -32,7 +48,6 @@ Well-versed in various programming languages and able to learn new ones as neede
 - Managed mail servers for a remote-first communications company
 - Maintained web servers running on Linux and Apache
 - Used Git for development, exploration, and version control
-- Met WCAG accessibility targets
 - Provide IT support and web services remotely to small businesses
 - Manage a ticketing system to coordinate quality assurance and testing
 - Break down complex problems and delegate tasks to others
@@ -166,25 +181,12 @@ Well-versed in various programming languages and able to learn new ones as neede
 # Education
 
 ### BS in Electrical Engineering
-Specialization in System Engineering
 *2009 - 2014*
 - University of Ottawa
+- Specialization in System Engineering
 
 ### Extra education
 - web development course
 - linux server maintenance course
 - introduction to software engineering principles 
 - project management
-
-
-## Links
--  github profile
--  wordpress.org profile
--  show examples of software you have written
--  show a single page applications
-
-## References
-- Hyperactive
-- Medical Foundation
-- Bus Council
-- Stone Edge Ottawa

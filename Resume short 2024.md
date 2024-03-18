@@ -1,6 +1,49 @@
-# Jasmin Thibaudeau
+# Sidebar
 
+### Contact
+
+Jasmin Thibaudeau
+Full-stack web developer
 jasminht@gmail.com
+
+### Education
+
+Bachelor of Science
+Electrical Engineering
+Specialization in System Engineering
+*University of Ottawa*
+2009 - 2014
+
+### Bonus education
+- web development course
+- linux server maintenance course
+- introduction to software engineering principles 
+- project management
+
+
+### Skills
+
+HTML, CSS, Javascript
+Typescript, SASS, jQuery
+SQL, NoSQL
+C++, Python, Ruby, Java
+React, Bootstrap 
+Node.js, PHP, ASP, npm
+Wordpress, Drupal, Symfony, Shopify, H5P
+Windows, Linux, Apache
+Servers, DNS, cloud hosting, mail
+Assembly, Matlab
+Sublime, VSCode
+
+Scrum/agile
+
+AWS services, Google Cloud, Azure
+LXD, Docker, Kubernetes
+
+Solar energy
+
+
+# Main content
 
 ## Professional Summary
 
@@ -11,79 +54,58 @@ I have experience owning a project from initial estimates to final release. In c
 Well-versed in various programming languages and able to learn new ones as needed. 
 
 
-# Skills
-
-### List
-
-- Web stack :            HTML, CSS, Javascript
-- Web extensions :       Typescript, SASS, jQuery
-- Database management :  SQL, NoSQL
-- Scripting languages :  C++, Python, Ruby, Java
-- Front-end frameworks : React, Bootstrap 
-- Back-end scripting :   Node.js, PHP, ASP, npm
-- Content Management :   Wordpress, Drupal, Symfony, Shopify, H5P
-- Environments :         Windows, Linux, Apache
-- Web hosting :          Servers, DNS, cloud hosting, mail
-- Bonus :                Assembly, Matlab
-- Editors :              Sublime, VSCode
-
-- Cloud Hosting :        AWS services, Google Cloud, Azure
-- Containers :           LXD, Docker, Kubernetes
-
-### Software Development
-
-- Create reusable, scalable and maintainable code that can run on parallel servers
-- Use automated testing to keep pace with codebase growth
-- Setup and run web servers with Linux and Apache
-- Use GitHub for version control
-- Create custom Wordpress plugins
-- Ensure WCAG accessibility of websites
-
-
-- Developed testing algorithms to keep pace with codebase growth
-- Engineered scalable software that can run in parallel servers
-- Designed an 8-bit, 16-operation computer using Quartus II and UP2 Altera
-### Collaboration
-
-- Managed mail servers for a remote-first communications company
-- Maintained web servers running on Linux and Apache
-- Used Git for development, exploration, and version control
-- Provide IT support and web services remotely to small businesses
-- Manage a ticketing system to coordinate quality assurance and testing
-- Break down complex problems and delegate tasks to others
-
-
-### Project management
-
-- Gather and analyze requirements through continuous dialogue with clients
-- Estimate the cost and time needed in advance
-- Communicate solution drafts to non-technical stakeholders
-- - -
-- 
-
-
 # Work Experience
 
-### Web developer @ Hyperactive.ca
-*2016 - present*
-- Updated legacy code to modern PHP standards
-- Collaborated with designers, artists, writers, and subject matter experts
-- Managed mail servers for a remote-first communications company
 
-
-### Web developer @ BusCouncil.ca
-*2015 - 2023*
+### Full stack web developer @ Hyperactive
+*2016 - 2024*
+- Break down complex problems and delegate tasks to other team members
+- Use [x] automated testing to keep pace with codebase growth
+- Ensure WCAG accessibility of websites
+- Used Git for development, exploration, and version control of [x]
+- Gather and analyze requirements through continuous dialogue with [x] clients
+--------
+*Hyperactive.ca*
+- Updated [x] legacy codebases to modern PHP standards
+- Collaborated with [x] teams of designers, artists, writers, and subject matter experts
+- Managed mail servers for [x] remote-first communications company
+*BusCouncil.ca*
 - Upgraded legacy Symfony 1 engine and libraries to support modern PHP
 - Converted a Flash-based website to modern HTML and Javascript
 - Combined 5 separate websites (drupal, symfony, wordpress) into one seamless UI
 - Suggested updates, upgrades and improvements matching the company's changing budget
+*H5P Interactive Videos*
+- built [x] interactive elearning wordpress plugins with Javascript
+- developed iterative design of [x] User Interfaces through simple wireframes
+- Created [x] custom Wordpress plugins
 
 
-### Web developer & H5P Interactive Videos
-*2023*
-- built interactive elearning wordpress plugins with Javascript
-- used npm to build and package these custom interactive features
-- developed iterative design of UI through simple wireframes
+### Freelance web developer
+*2011 - 2024*
+- Create [x] reusable, scalable and maintainable code that can run on parallel servers
+- Maintained [x] web servers running on Linux and Apache
+- Provide IT support and web services remotely to [x] small businesses
+- Manage a ticketing system to coordinate quality assurance and testing
+- Communicate solution drafts and estimates to non-technical stakeholders
+--------
+- Managed [x] website projects through concept, design, development, testing, and review
+- Developed [x] modular Javascript apps that runs in the browser
+- Developed algorithms to optimize app performance by [x]
+- Wrote documentation for clients to use their website's admin interface
+- Identified a market opportunity and contacted marinas about their websites
+- Developed [x] website from initial quote to final product
+- Developed a software tool for students to submit homework
+- Communicated with stakeholders and IT to understand needs and resources
+
+
+### Ship mechanic and navigator @ Kokomo (the boat)
+*2017 - 2021*
+- Refit and maintain a diesel engine 30-foot sailboat
+- Study charts and plot a safe course from Lake Ontario to the Caribbean
+- Manage crew schedule, safety procedures, and task distribution
+- Design and implement a solar-energy system
+- Empowered a videographer to document even dangerous moments
+- Sold the boat for a higher price
 
 
 ### Lead developer & IT specialist @ Wambu Media Corporation
@@ -96,97 +118,16 @@ Well-versed in various programming languages and able to learn new ones as neede
 - Taught others how to use custom web-based content-editing tools
 
 
-### Game developer @ jasminht.github.io/hexgame
-*2018 - 2023*
-- Developed a modular Javascript app that runs in the browser
-- Extended HTML5 Canvas for user input and animations
-- Developed algorithm that exploits screen permanence to optimize performance
-
-
-### Web developer @ MedicalFoundation.ca
-*2017 - 2024*
-- Managed website project through concept, design, development, testing, and review
-- Wrote documentation for clients to use the admin interface
-
-
-### Web developer @ StoneEdgeOttawa.com
-*2016 - 2024*
-- Enabled client to post alerts on their website with text messages
-- Built a dynamic "snow-meter" which shows daily snow accumulation
-- Created a custom Wordpress plugin for displaying live snowplow GPS positions
-
-
-### Website developer @ WaupoosMarina.ca
-*2018*
-- Identified a market opportunity and contacted marinas about their websites
-- Developed a website from initial quote to final product
-- Commissionned on-site photography
-
-
-### Software Analyst @ SunLAB solar research group
-*2013*
+### Software Analyst @ CO-OP work-study program
+*2011-2013*
 - Analysed new software and wrote tutorials for other team members
 - Guided a group of high school students through a week-long solar energy hands-on workshop
-- Presented a booth about solar cell simulation at the TEXCO conference
+- Identified over 100 excessive polluters from emissions database using statistical methods
+- Studied new software to judge their usefulness to the Department of National Defense
+- Gave a presentation on new organisational technologies to non-technical stakeholders
 
 
-### Database Analyst @ Environment Canada
-*2012*
-- Identified polluters from emissions database using statistical methods
-
-
-### Software Analyst @ The Department of National Defense and the Canadian Forces
-*2012*
-- Studied new software to judge their applicability to department needs
-- Gave a presentation on new communication technologies to non-technical stakeholders
-
-
-### Web developer @ University of ottawa
-*2011*
-- Developed a software tool for students to submit homework
-- Communicated with stakeholders and IT to understand needs and resources
-
-
-
-
-
-# Bonus Experience
-
-### Ship Mechanic and Navigator @ Kokomo (the boat)
-*2017 - 2021*
-
-- Refit and maintain a diesel engine 30-foot sailboat
-- Study charts and plot a safe course from Lake Ontario to the Caribbean
-- Manage crew schedule, safety procedures, and task distribution
-- Design and implement a solar-energy system
-- Empowered a videographer to document even dangerous moments
-- Sold the boat for a higher price
-
-
-### Wireless energy project @ University of Ottawa
-*2014*
+### Bonus experience
 - Led a team of 4 engineers in developing a wireless energy transmission system
-- Programmed a microcontroller to manage the energy transfer
-
-
-### Personal projects
-- Restored a broken Electone electric organ
-- Built 2 iterations of a Dance Dance Revolution (DDR) floor-pad-controller 
-- Built and sold 2 small houses based on downloaded plans
-- Installed solar energy, kitchen, bed, and a desk inside a minivan
+- Built and sold 3 solar-powered tiny living spaces (a sailboat, a tiny house, and a van) 
 - Designed an 8-bit, 16-operation computer using Quartus II and UP2 Altera
-
-
-
-# Education
-
-### BS in Electrical Engineering
-*2009 - 2014*
-- University of Ottawa
-- Specialization in System Engineering
-
-### Extra education
-- web development course
-- linux server maintenance course
-- introduction to software engineering principles 
-- project management

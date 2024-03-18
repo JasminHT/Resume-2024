@@ -1,7 +1,5 @@
 
 
-- [ ] Organize this list by mastery level
-
 # TECH SKILLS SUMMARY
 
 - Web stack :            HTML, CSS, Javascript
@@ -78,35 +76,6 @@ Wordpress
 - Created custom web tools for team members
 - Upgraded legacy PHP code to new standards
 
-### Back-end scripting
-- Node.js, 
-- PHP, 
-- ASP, 
-- npm
-
-### Cloud Hosting
-- AWS services, 
-- Google Cloud, 
-- Azure
-
-### Database
-- SQL
-- NoSQL
-
-### Styling
-- CSS
-- SASS
-- SCSS
-- Bootstrap
-
-### React
-
-
-### C++
-
-### Java
-
-
 ### Python
 - Create Pyton scripts to manipulate and format client-submitted data (Legion)
 
@@ -115,21 +84,11 @@ Wordpress
 - Use Git to keep local copy and remote copy in sync
 - Apache
 
-### Web hosting
-- Servers, 
-- DNS, 
-- cloud hosting, 
-- mail
-
-
 ### Wordpress, Drupal, Shopify
-- Developed many websites using a Content Management System (CMS)
+- Developed [how many] websites using a Content Management System (CMS)
 - Coded custom Wordpress plugins
 - Designed custom content-types, views, templates, and themes
 - Used plugins for payment, social media, maps, interactivity and RSS feed
-
-### Symfony
-
 
 ### Javascript
 - Developed dynamic webpages with user accounts and personal documents
@@ -145,12 +104,8 @@ Wordpress
 - Dynamic pricing chart with seasonal variations (Waupoos)
 - Native American Status tax-free processing (CreeCulture)
 - Live snow-accumulation weather tracking (StoneEdgeOttawa)
+- Enabled client to post alerts on their website with text messages
 
-### Editors
-- Sublime
-- VSCode
-
-### Git
 
 
 

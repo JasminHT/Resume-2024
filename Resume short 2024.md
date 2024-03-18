@@ -26,6 +26,7 @@ Specialization in System Engineering
 HTML, CSS, Javascript
 Typescript, SASS, jQuery
 SQL, NoSQL
+Flash
 C++, Python, Ruby, Java
 React, Bootstrap 
 Node.js, PHP, ASP, npm
@@ -34,7 +35,7 @@ Windows, Linux, Apache
 Servers, DNS, cloud hosting, mail
 Assembly, Matlab
 Sublime, VSCode
-
+WCAG accessibility
 Scrum/agile
 
 AWS services, Google Cloud, Azure
@@ -56,49 +57,35 @@ Well-versed in various programming languages and able to learn new ones as neede
 
 # Work Experience
 
-
 ### Full stack web developer @ Hyperactive
 *2016 - 2024*
-- Break down complex problems and delegate tasks to other team members
-- Use [x] automated testing to keep pace with codebase growth
-- Ensure WCAG accessibility of websites
-- Used Git for development, exploration, and version control of [x]
+- Developed automated testing suites to keep pace with growing codebase
+- Used Git for the development, exploration, and version control of [x] projects
 - Gather and analyze requirements through continuous dialogue with [x] clients
---------
-*Hyperactive.ca*
-- Updated [x] legacy codebases to modern PHP standards
-- Collaborated with [x] teams of designers, artists, writers, and subject matter experts
-- Managed mail servers for [x] remote-first communications company
-*BusCouncil.ca*
-- Upgraded legacy Symfony 1 engine and libraries to support modern PHP
-- Converted a Flash-based website to modern HTML and Javascript
+- Updated 3 legacy codebases to support modern PHP standards
+- Converted Flash-based websites to modern HTML and Javascript
 - Combined 5 separate websites (drupal, symfony, wordpress) into one seamless UI
-- Suggested updates, upgrades and improvements matching the company's changing budget
-*H5P Interactive Videos*
-- built [x] interactive elearning wordpress plugins with Javascript
-- developed iterative design of [x] User Interfaces through simple wireframes
-- Created [x] custom Wordpress plugins
+- Broke down complex problems and delegated tasks to other team members
+- Collaborated with 5 different teams of designers, artists, writers, and experts
+- Developed design of [x] User Interfaces through simple wireframes
+- Created 12 interactive custom Wordpress plugins using PHP and Javascript
 
 
-### Freelance web developer
+### Freelance full stack web developer
 *2011 - 2024*
-- Create [x] reusable, scalable and maintainable code that can run on parallel servers
-- Maintained [x] web servers running on Linux and Apache
+- Identified market opportunities and contacted dozens of businesses about their websites
+- Communicated with stakeholders and IT to understand needs and resources
+- Communicate solution drafts and estimates to non-technical stakeholders
+- Wrote documentation for clients to use their website's admin interface
+- Oversaw 20 website projects through concept, design, development, and testing
+- Managed over 10 web servers running on Linux and Apache
+- Identified bottlenecks to reduce load time of websites by up to 90%
+- Created reusable, scalable and maintainable code that can run on parallel servers
 - Provide IT support and web services remotely to [x] small businesses
 - Manage a ticketing system to coordinate quality assurance and testing
-- Communicate solution drafts and estimates to non-technical stakeholders
---------
-- Managed [x] website projects through concept, design, development, testing, and review
-- Developed [x] modular Javascript apps that runs in the browser
-- Developed algorithms to optimize app performance by [x]
-- Wrote documentation for clients to use their website's admin interface
-- Identified a market opportunity and contacted marinas about their websites
-- Developed [x] website from initial quote to final product
-- Developed a software tool for students to submit homework
-- Communicated with stakeholders and IT to understand needs and resources
 
 
-### Ship mechanic and navigator @ Kokomo (the boat)
+### Ship mechanic and Navigator @ Kokomo (the boat)
 *2017 - 2021*
 - Refit and maintain a diesel engine 30-foot sailboat
 - Study charts and plot a safe course from Lake Ontario to the Caribbean
@@ -108,7 +95,7 @@ Well-versed in various programming languages and able to learn new ones as neede
 - Sold the boat for a higher price
 
 
-### Lead developer & IT specialist @ Wambu Media Corporation
+### Lead developer & IT specialist @ Wambu Media
 *2014 - 2015*
 - Developed a Drupal website to connect users with doctors and experts
 - Implemented a workflow in software that matched the diverse needs of the team
@@ -121,13 +108,13 @@ Well-versed in various programming languages and able to learn new ones as neede
 ### Software Analyst @ CO-OP work-study program
 *2011-2013*
 - Analysed new software and wrote tutorials for other team members
-- Guided a group of high school students through a week-long solar energy hands-on workshop
-- Identified over 100 excessive polluters from emissions database using statistical methods
-- Studied new software to judge their usefulness to the Department of National Defense
-- Gave a presentation on new organisational technologies to non-technical stakeholders
+- Guided high school students through a week-long solar energy workshop
+- Identified over 100 excessive polluters from emissions database using statistics
+- Analysed software to judge their usefulness to the Department of National Defense
+- Gave presentations on organisational technologies to non-technical stakeholders
 
 
-### Bonus experience
+### Bonus Experience
 - Led a team of 4 engineers in developing a wireless energy transmission system
 - Built and sold 3 solar-powered tiny living spaces (a sailboat, a tiny house, and a van) 
 - Designed an 8-bit, 16-operation computer using Quartus II and UP2 Altera
